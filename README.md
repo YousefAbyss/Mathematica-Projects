@@ -1,2 +1,3 @@
-# Mathematica-Projects
-Scientific simulations, including Doppler Effect, Sound waves, N-Body, Solar System
+# Scientific simulations using Mathematica
+- Includes:
+- Doppler Effect
