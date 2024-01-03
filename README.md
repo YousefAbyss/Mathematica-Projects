@@ -1,5 +1,5 @@
 # Scientific simulations using Mathematica
-- Includes:
+Includes:
 - Doppler Effect
 - Spherical Waves Interference
 - N-Body (Solar system, Classical and Relativistic Gravity)
